@@ -2311,7 +2311,7 @@ bo1.style.display="none";
   cls.style.display="none";
   
    
-    
+    document.getElementById("audio").play();
  if(toss==1)
   { 
     
