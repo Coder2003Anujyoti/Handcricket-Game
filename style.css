@@ -1203,7 +1203,7 @@ img
   justify-content:center;
   align-items:center;
   position:relative;
-  top:60px;
+  top:20px;
   font-size:65px;
   font-weight:bolder;
   border:5px solid black;
@@ -1211,7 +1211,7 @@ img
 }
 #pls1
 { position:relative;
-  top:30px;
+  top:10px;
   text-decoration:underline;
   text-underline-offset:16px;
   font-weight:bolder;
@@ -1245,7 +1245,7 @@ img
   justify-content:center;
   align-items:center;
   position:relative;
-  top:60px;
+  top:20px;
   font-size:65px;
   font-weight:bolder;
   border:5px solid black;
@@ -1253,7 +1253,7 @@ img
 }
 #cls1
 { position:relative;
-  top:30px;
+  top:10px;
   text-decoration:underline;
   text-underline-offset:16px;
   font-weight:bolder;
